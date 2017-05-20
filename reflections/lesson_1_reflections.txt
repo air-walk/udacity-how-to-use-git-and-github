@@ -2,3 +2,9 @@ How did viewing a diff between two versions of a file help you see the bug that 
 
 The system was working as intended previously and stopped working sometime later. The diff helped pinpoint exactly what all things changed from 
 last time, in turn helping to narrow down the root cause with ease. 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If a bug was introduced, help rollback to a previously working version.
+Find out how a file evolved over time without having to remember all that information (which would be impossible by the way).
