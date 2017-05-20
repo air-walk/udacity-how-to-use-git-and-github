@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The system was working as intended previously and stopped working sometime later. The diff helped pinpoint exactly what all things changed from 
+last time, in turn helping to narrow down the root cause with ease. 
